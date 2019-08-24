@@ -2,7 +2,7 @@
 title: Upgraded to Gatsby v2
 date: "2018-10-18T16:51:00.000Z"
 layout: post
-draft: false
+draft: true
 path: "/posts/upgraded-to-gatsby-v2/"
 category: "Gatsby"
 tags:
@@ -11,6 +11,7 @@ tags:
 description: "This starter has been forked and upgraded to Gatsby v2"
 ---
 
+### TEST
 This is a Gatsby v2 compatible version of the
 [lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) starter, started
 by the folks at [Gatsby Central](https://www.gatsbycentral.com/).
