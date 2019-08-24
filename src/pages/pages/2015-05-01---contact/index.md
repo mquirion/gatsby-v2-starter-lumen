@@ -4,6 +4,6 @@ layout: page
 path: "/contact"
 ---
 
-## Contact Me
+## E-Mail
 
 You can reach me on the very common e-mail service provided by Google using "matt.quirion" before the '@'.
