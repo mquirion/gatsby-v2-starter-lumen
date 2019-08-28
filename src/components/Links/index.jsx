@@ -45,7 +45,7 @@ class Links extends React.Component {
             </a>
           </li>
           <li className="links__list-item">
-            <a href={links.rss}>
+            <a href={`https://mattquirion.com/${links.rss}`}>
               <i className="icon-rss" />
             </a>
           </li>
